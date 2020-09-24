@@ -1,2 +1,2 @@
-# ITMD-361-Project1
+# ITMD-361-Project
 Three html pages. (Resume, Esport profile, Music) 
